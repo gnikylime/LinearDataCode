@@ -5,7 +5,7 @@ Labs, coding demos, and exercises to accompany the <a href="https://lineardata.s
 
 ### Labs
 
-The labs are written in Matlab Live Script and Python / Jupyter.  Other than differences that are forced by the languages themselves, the labs are identical.  There is one lab per chapter in the textbook.
+The labs are written in Matlab Live Script and Python / Jupyter.  Other than differences that are forced by the languages themselves, the labs are identical.  There is one lab per chapter (except the more theoretical Chapter 6) in the textbook.
 
 ### Coding Demos
 
