@@ -9,7 +9,7 @@ The labs are written in Matlab Live Script and Python / Jupyter.  Other than dif
 
 ### Coding Demos
 
-The coding demos are written in Matlab and sometimes additionaly Python.  They are labeled with the book section they are intended to accompany.
+The coding demos are written in Matlab and Python.  They are labeled with the book section they are intended to accompany.
 
 ### Exercises
 
